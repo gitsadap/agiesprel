@@ -1,0 +1,62 @@
+# ==============================================================================
+# ESPReL .gitignore
+# ==============================================================================
+
+# Environment files & Secrets
+.env
+.env.local
+.env.*.local
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Log files & Debugging output
+*.log
+*_log.txt
+debug_log.txt
+login_log.txt
+catch_log.txt
+counter.txt
+
+# Database Backups
+backup/*
+!backup/.gitkeep
+
+# User Uploaded Content (Certificates, Personal Files, Photos)
+uploads/elearning/*
+!uploads/elearning/.gitkeep
+uploads/nresuan/*
+!uploads/nresuan/.gitkeep
+uploads/sign/*
+!uploads/sign/.gitkeep
+
+# Exported PDFs (Contains personal data and requests)
+export/*
+!export/.gitkeep
+export/01/*
+!export/01/.gitkeep
+export/02/*
+!export/02/.gitkeep
+
+# Digital Signature Images
+sign/*
+!sign/.gitkeep
+
+# Temporary & Backup files
+*.bak
+*.swp
+*~
+NU-LAB-01_backup.pdf
+NU-LAB-02_backup.pdf

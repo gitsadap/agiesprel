@@ -1,0 +1,251 @@
+BODY {
+	FONT-SIZE: 10pt; MARGIN: 0px; COLOR: #000000; FONT-FAMILY: Verdana, Tahoma; BACKGROUND-COLOR: #FFFFFF
+}
+TABLE {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Tahoma , Verdana , Ms Sans Serif
+}
+SELECT {
+	FONT-SIZE: 10pt; FONT-FAMILY: 1Verdana , Tahoma
+}
+TEXTAREA {
+	FONT-SIZE: 10pt; FONT-FAMILY: 1Verdana , Tahoma
+}
+INPUT {
+	FONT-SIZE: 10pt; FONT-FAMILY: 1Verdana , Tahoma
+}
+A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.FormBox {
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	vertical-align: middle;
+}
+.FormBox input {
+	font: 10pt Verdana, Tahoma;
+	color: #666666;
+	text-decoration: none;
+	border: 1px solid #666666;
+}
+.TextBox {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+
+
+
+
+<!-- แก้รูป -->
+.photo {
+	margin: 30px;
+	position: relative;
+	width: 180px;
+	height: 130px;
+	float: left;
+}
+.photo img {
+	background: #fff;
+	border: solid 1px #ccc;
+	padding: 4px;
+}
+.photo span {
+	width: 20px;
+	height: 18px;
+	display: block;
+	position: absolute;
+	top: 12px;
+	left: 12px;
+	background: url(images/style_pic/digg-style.gif) no-repeat;
+}
+.photo a {
+	text-decoration: none;
+}
+
+.sample1 span {
+	width: 28px;
+	height: 21px;
+	display: block;
+	position: absolute;
+	top: -12px;
+	left: 90px;
+	background: url(images/style_pic/pin.png) no-repeat;
+}
+
+.sample2 span {
+	width: 77px;
+	height: 27px;
+	display: block;
+	position: absolute;
+	top: -12px;
+	left: 50px;
+	background: url(images/style_pic/tape.png) no-repeat;
+}
+
+.sample3 span {
+	width: 30px;
+	height: 60px;
+	display: block;
+	position: absolute;
+	top: -5px;
+	left: -2px;
+	background: url(images/style_pic/paper-clip.png) no-repeat;
+}
+
+.sample4 span {
+	width: 115px;
+	height: 32px;
+	display: block;
+	position: absolute;
+	top: -13px;
+	left: 30px;
+	background: url(images/style_pic/tape2.png) no-repeat;
+}
+
+.sample5 span {
+	width: 216px;
+	height: 166px;
+	display: block;
+	position: absolute;
+	top: -17px;
+	left: -18px;
+	background: url(images/style_pic/gold-frame.png) no-repeat;
+}
+
+.sample6 span {
+	width: 189px;
+	height: 137px;
+	display: block;
+	position: absolute;
+	top: -5px;
+	left: -5px;
+	background: url(images/style_pic/cut-corner.png) no-repeat;
+}
+
+.sample7 span {
+	width: 170px;
+	height: 120px;
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background: url(images/style_pic/round-corner.png) no-repeat;
+}
+.sample7 img {
+	border: none;
+	padding: 0;
+}
+
+.sample8 span {
+	width: 170px;
+	height: 120px;
+	display: block;
+	position: absolute;
+	top: 5px;
+	left: 6px;
+	background: url(images/style_pic/round-corner.png) no-repeat;
+}
+.sample8 img {
+	border: none;
+	padding: 5px 6px 6px;
+	background: url(images/style_pic/round-bg.gif) no-repeat;
+}
+
+.sample9 span {
+	display: block;
+	position: absolute;
+	top: 6px;
+	left: 7px;
+	background: url(images/style_pic/stamp-pattern.png) no-repeat;
+}
+.sample9 img {
+	border: none;
+	padding: 6px 7px 7px;
+	background: url(images/style_pic/stamp-bg.gif) no-repeat;
+}
+
+.sample10 span {
+	width: 181px;
+	height: 134px;
+	display: block;
+	position: absolute;
+	top: -6px;
+	left: -6px;
+	background: url(images/style_pic/brush-border.png) no-repeat;
+}
+.sample10 img {
+	border: none;
+	padding: 0;
+}
+
+.sample11 span {
+	width: 122px;
+	height: 72px;
+	display: block;
+	position: absolute;
+	top: -22px;
+	left: -15px;
+	background: url(images/style_pic/floral-corner.png) no-repeat;
+}
+
+.sample12 span {
+	width: 186px;
+	height: 137px;
+	display: block;
+	position: absolute;
+	top: 2px;
+	left: 2px;
+	background: url(images/style_pic/watercolor-top.png) no-repeat;
+}
+.sample12 img {
+	border: none;
+	padding: 9px 12px 12px 11px;
+	background: url(images/style_pic/watercolor-bg.png) no-repeat;
+}
+
+.sample13 span {
+	width: 170px;
+	height: 120px;
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background: url(images/style_pic/mask.png) no-repeat;
+}
+.sample13 img {
+	border: none;
+	padding: 0;
+}
+
+.sample14 span {
+	width: 170px;
+	height: 84px;
+	display: block;
+	position: absolute;
+	top: 5px;
+	left: 5px;
+	background: url(images/style_pic/glossy-gradient.png);
+}
+
+<!-- จบแก้รูป -->
+
+A:active {
+	FONT-WEIGHT: bold; COLOR: #496d6d; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-WEIGHT: bold; COLOR: #ff9933; TEXT-DECORATION: none
+}
+
+.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #3366cc; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.txt_small {
+	FONT-SIZE: 9px; FONT-FAMILY: Tahoma, Verdana, "MS Sans Serif"
+}

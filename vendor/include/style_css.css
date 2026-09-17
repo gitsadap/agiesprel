@@ -1,0 +1,308 @@
+@charset "windows-874";
+.smallText {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #0066cc; FONT-FAMILY: MS Sans Serif; TEXT-DECORATION: none
+}
+.smallTextCB {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #990000; FONT-FAMILY: MS Sans Serif; TEXT-DECORATION: underline
+}
+.smallTextCBB {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #000000; FONT-FAMILY: MS Sans Serif; TEXT-DECORATION: none
+}
+.smallTextC {
+	FONT-SIZE: 14px; COLOR: #000000; FONT-FAMILY: MS Sans Serif; TEXT-DECORATION: none
+}
+.smallTextB {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #213a72; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.smallText_green {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #4f7f00; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.smallTextb_green {
+	FONT-SIZE: 13px; COLOR: #4f7f00; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.smallTextb_green:hover {
+	FONT-SIZE: 13px; COLOR: #999; FONT-FAMILY: Tahoma; text-decoration:underline
+}
+.smallTextb_green_de {
+	FONT-SIZE: 12px; COLOR: #4f7f00; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.smallTextb_green_de:hover {
+	FONT-SIZE: 12px; COLOR: #999; FONT-FAMILY: Tahoma; text-decoration:underline
+}
+.smallTextb {
+	 FONT-SIZE: 13px; COLOR: #213a72; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.small33Text {
+	 FONT-SIZE: 12px; COLOR: #398e00; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.personalText {
+	 FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: Sans-Serif; TEXT-DECORATION: none
+}
+.BBpersonalText {
+	 FONT-SIZE: 14px; COLOR: #000000; FONT-FAMILY: Sans-Serif; TEXT-DECORATION: none; FONT-WEIGHT: bold
+}
+.small222Text {
+	 FONT-SIZE: 12px; COLOR: #0066cc; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.small222Text:hover {
+	 FONT-SIZE: 12px; COLOR: #62adf8; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.small333Text {
+	 FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.small333Text:hover {
+	 FONT-SIZE: 12px; COLOR: #0762f9; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.PPPText {
+	 FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.small2Text {
+	 FONT-SIZE:  bold; 14px; COLOR: #1e3140; FONT-FAMILY: MS Sans Serif; TEXT-DECORATION: none
+}
+A.smallText:hover {
+	COLOR: #FF9933; TEXT-DECORATION: underline
+}
+.largeText {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #00000; FONT-FAMILY: MS Sans Serif; TEXT-DECORATION: none
+}
+H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #e6851c; FONT-FAMILY: MS Sans Serif
+}
+BODY {
+	FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+TD {
+	FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+P {
+	FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+SELECT {
+	FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+INPUT {
+	FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+TEXTAREA {
+	FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+FOOTER {
+	FONT-SIZE: 12px; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.small3Text {
+	FONT-SIZE: 12px; COLOR: #ec008c; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.small4Text {
+	FONT-SIZE: 12px; COLOR: #77004f; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+ 
+.buttom-small {
+	font-family: Tahoma, Geneva, sans-serif;
+	color: #FFF;
+}
+.menu-butttom:hover {
+	color: #6f6f6f;
+	font-size: x-small;
+	font-family: Verdana, Geneva, sans-serif;
+	TEXT-DECORATION: none
+}
+.menu-butttom {
+	color: #FFF;
+	font-size: x-small;
+	font-family: Verdana, Geneva, sans-serif;
+	TEXT-DECORATION: none
+}
+.menu-link:hover {
+	color: #000000;
+	font-size: 12px;
+	font-family: Tahoma, Geneva, sans-serif;
+	TEXT-DECORATION: none
+}
+.menu-link {
+	color: #FFF;
+	font-size: 12px;
+	font-family: Tahoma, Geneva, sans-serif;
+	TEXT-DECORATION: none
+}
+.detail {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	color: #666;
+}
+.more {
+	font-family: Tahoma, Geneva, sans-serif;
+	color: #999;
+	TEXT-DECORATION: none
+}
+.more:hover {
+	font-family: Tahoma, Geneva, sans-serif;
+	color: #c7c7c7;
+	TEXT-DECORATION: underline
+}
+.BB {
+	font-size: 30px;
+	font-family: "PSL Display";
+	color: #e0ae00;
+	font-weight: normal;
+}
+.newText {
+	 FONT-SIZE: 13px; 
+	 FONT-WEIGHT: bold; 
+	 COLOR: #5e5e5e; 
+	 FONT-FAMILY: Tahoma; 
+	 TEXT-DECORATION: none
+}
+.newText:hover {
+	 FONT-SIZE: 13px; 
+	 FONT-WEIGHT: bold; 
+	 COLOR: #ec0080; 
+	 FONT-FAMILY: Tahoma; 
+	 TEXT-DECORATION: none
+}
+.new11Text {
+	 FONT-SIZE: 12px; 
+	 COLOR: #aeaeae; 
+	 FONT-FAMILY: Tahoma; 
+	 TEXT-DECORATION: none
+}
+
+.new22Text {
+	 FONT-SIZE: 13px; 
+	 COLOR: #ec0080; 
+	 FONT-FAMILY: Tahoma; 
+	 TEXT-DECORATION: none
+}
+.new22Text:hover {
+	 FONT-SIZE: 13px; 
+	 COLOR: #5e5e5e; 
+	 FONT-FAMILY: Tahoma; 
+	 TEXT-DECORATION: none
+}
+.new33Text {
+	 FONT-SIZE: 13px; 
+	 COLOR: #191919; 
+	 FONT-FAMILY: Tahoma; 
+	 TEXT-DECORATION: none
+}
+.new33Text:hover {
+	 FONT-SIZE: 13px; 
+	 COLOR: #ec0080; 
+	 FONT-FAMILY: Tahoma; 
+	 TEXT-DECORATION: none
+}
+.new44Text {
+	 FONT-SIZE: 11px; 
+	 COLOR: #eb0085; 
+	 FONT-FAMILY: Tahoma;
+}
+.newtopicText {
+	 FONT-SIZE: 14px; 
+	 COLOR: #5e5e5e; 
+	 FONT-FAMILY: Tahoma;
+}
+.newdetailText {
+	 FONT-SIZE: 14px; 
+	 COLOR: #464646; 
+	 font-family: "Times New Roman", Times, serif;
+	 text-align: justify;
+	 TEXT-DECORATION: none;
+	 line-height: 30px;
+}
+.Topictext {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 13px;
+	color: #e20000;
+	FONT-WEIGHT: bold;
+}
+.Topictext-eng {
+	 font-family: psl_displayregular, sans-serif;
+	font-size: 35px;
+	color: #9aba19;
+	 text-align: justify;
+	 TEXT-DECORATION: none;
+	 line-height: 30px;
+	/*FONT-WEIGHT: bold;*/
+}
+.Topictext-2 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	color: #a7a7a7;
+	/*FONT-WEIGHT: bold;*/
+}
+.detailtext3 {
+font-family: psl_displayregular, sans-serif;
+	font-size: 28px;
+	color: #828282;
+	 text-align: justify;
+	 TEXT-DECORATION: none;
+	 line-height: 30px;
+	/* font-weight: bold;*/
+}
+.detailtext4 {
+font-family: psl_displayregular, sans-serif;
+	font-size: 24px;
+	color: #828282;
+	 text-align: justify;
+	 TEXT-DECORATION: none;
+	 line-height: 30px;
+	/* font-weight: bold;*/
+}
+.detailtext5 {
+font-family: psl_displayregular, sans-serif;
+	font-size: 24px;
+	color: #333333;
+	 text-align: justify;
+	 TEXT-DECORATION: none;
+	 line-height: 24px;
+	/* font-weight: bold;*/
+}
+.detailtext6 {
+font-family: psl_displayregular, sans-serif;
+	font-size: 24px;
+	color: #999999;
+	 text-align: justify;
+	 TEXT-DECORATION: none;
+	 line-height: 24px;
+	/* font-weight: bold;*/
+}
+.detailtext2 {
+font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	color: #828282;
+	 text-align: justify;
+	 TEXT-DECORATION: none;
+	 line-height: 25px;
+}
+.detailtext {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	
+}
+.detailtextBB {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	FONT-WEIGHT: bold;
+}
+
+@font-face {
+    font-family: 'psl_displayregular';
+    src: url('psl029-webfont.eot');
+    src: url('psl029-webfont.eot?#iefix') format('embedded-opentype'),
+         url('psl029-webfont.woff2') format('woff2'),
+         url('psl029-webfont.woff') format('woff'),
+         url('psl029-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'psl_displayitalic';
+    src: url('psl031-webfont.eot');
+    src: url('psl031-webfont.eot?#iefix') format('embedded-opentype'),
+         url('psl031-webfont.woff2') format('woff2'),
+         url('psl031-webfont.woff') format('woff'),
+         url('psl031-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
